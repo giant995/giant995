@@ -1,5 +1,11 @@
-### Hi there 👋
+### Howdy 👋
+I'm a senior computer engineering student at UQAC and developer at Solutions TLM. So you can either stumble onto gazillion of weird commits or well crafted ones...
 
+I mainly do C++ for academic and Python on the job. Python is where my heart is right now because it's good for fast iterations, it has a lot of insanely good tools and the communities are great. I'm also trained with C, C#, Java and SQL and I dabble with other languages as needed.
+
+I love electronics and hacky projects and I'm also a member of a robotic club.
+
+You can follow me on [Twitter](https://twitter.com/BigJ1m)
 <!--
 **giant995/giant995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
