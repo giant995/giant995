@@ -1,4 +1,4 @@
-I stream coding session on Twitch: [bigj1m](https://www.twitch.tv/bigj1m)
+:eyes: [bigj1m](https://www.twitch.tv/bigj1m) :key: [Commands](commands)
 
 ## Tools I use to stream
 - [obs-ndi](https://github.com/Palakis/obs-ndi/releases): Output my Ubuntu machine to my Windows machine who encode the stream
