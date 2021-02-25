@@ -4,5 +4,5 @@ My main keyboard is the Ergodox EZ shine and here is the :keyboard: [layout](htt
 - Programming layer 6
   - Placement of <{[(: Should be DF=() ER={} CV=[]
   - Where the /\| are: should be T=| G=/ B=\
-  - No ~: should be -=~
+  - No tild: should be -=~
   - Too much symbols irrelevant to coding: should be on their own layer
